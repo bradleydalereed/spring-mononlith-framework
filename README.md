@@ -1,0 +1,1 @@
+# spring-mononlith-framework
